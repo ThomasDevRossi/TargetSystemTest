@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Comission/">
+    <Project Path="Comission/Comission.csproj" Id="43c204cc-e202-46aa-bab7-cb4c86b7aeb1" />
+  </Folder>
+  <Folder Name="/InterestCalculation/">
+    <Project Path="InterestCalculation/InterestCalculation.csproj" Id="ee560c3b-65d4-4c13-82cc-eaa39ad62500" />
+  </Folder>
+  <Folder Name="/StockControl/">
+    <Project Path="StockControl/StockControl.csproj" Id="5429e273-18b4-4b22-a0b7-e7fadce55dfe" />
+  </Folder>
+</Solution>

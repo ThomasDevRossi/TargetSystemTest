@@ -1,0 +1,6 @@
+@TargetSystem_HostAddress = http://localhost:5281
+
+GET {{TargetSystem_HostAddress}}/targetsystem/commissions
+Accept: application/json
+
+###
